@@ -1,0 +1,14 @@
+* accidentallydo
+
+** summary
+
+This is a description of project accidentallydo.
+
+** usage
+
+Example:
+#+begin_example
+make test
+./accidentallydo --help
+./accidentallydo --log-level=debug
+#+end_example
